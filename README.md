@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @huseyinozenalbayrak
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Python, Java and Swift
+- 🎓 2nd grade Computer Engineering student at Manisa Celal Bayar University
+- 👀 interested in Mobile App Development
+- 🌱 currently learning Python, Java and Swift
 - 📫 Reach me from albayrakhuseyinozen@gmail.com or via ig: @ozen_albayrak
 - ⚡ Fun fact: to be honest I'm unplanned, but I get the job done when it needs to be done (most of the time :D)
 
