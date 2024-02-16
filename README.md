@@ -2,7 +2,7 @@
 - 🎓 2nd grade Computer Engineering student at Manisa Celal Bayar University
 - 👀 Interested in Mobile App Development
 - 🌱 Currently learning Python, Java and Swift
-- - ⚡ Personal traits: Ambitious, passionate, disciplined, target-oriented, open to learning, analytical thinker, enterprising, friendly, good at adapting
+- ⚡ Personal traits: Ambitious, passionate, disciplined, target-oriented, open to learning, analytical thinker, enterprising, friendly, good at adapting
 - 📫 Reach me from albayrakhuseyinozen@gmail.com or via ig: @ozen_albayrak
 
 <!---
