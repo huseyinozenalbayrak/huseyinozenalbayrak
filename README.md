@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huseyinozenalbayrak
-- 🎓 2nd grade Computer Engineering student at Manisa Celal Bayar University
-- 👀 Interested in Python, Mobile App Development
-- 🌱 Currently learning Python, Swift
+- 🎓 3rd grade Computer Engineering student at Manisa Celal Bayar University
+- 👀 Interested in Mobile App Development
+- 🌱 Currently learning React, .NET
 - ⚡ Personal traits: Ambitious, passionate, disciplined, target-oriented, open to learning, analytical thinker, enterprising, friendly, good at adapting
 - 📫 Reach me from albayrakhuseyinozen@gmail.com or via ig: @ozen_albayrak
 
