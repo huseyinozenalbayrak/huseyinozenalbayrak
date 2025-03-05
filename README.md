@@ -3,7 +3,7 @@
 - 👀 Interested in Coding
 - 🌱 Currently learning .NET Core MVC
 - ⚡ Personal traits: Ambitious, passionate, disciplined, target-oriented, open to learning, analytical thinker, enterprising, friendly, good at adapting
-- 📫 Reach me from albayrakhuseyinozen@gmail.com or via ig: @ozen_albayrak
+- 📫 Reach me from albayrakhuseyinozen@gmail.com
 
 <!---
 huseyinozenalbayrak/huseyinozenalbayrak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
